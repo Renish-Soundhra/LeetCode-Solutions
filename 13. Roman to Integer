@@ -1,0 +1,32 @@
+class Solution {
+    public int romanToInt(String s) {
+       HashMap<String, Integer> hm1=new HashMap<String, Integer>();
+        hm1.put("I",1);
+        hm1.put("IV",4);
+        hm1.put("V",5);
+        hm1.put("IX",9);
+        hm1.put("X",10);
+        hm1.put("XL",40);
+        hm1.put("L",50);
+        hm1.put("XC",90);
+        hm1.put("C",100);
+        hm1.put("CD",400);
+        hm1.put("D",500);
+        hm1.put("CM",900);
+        hm1.put("M",1000);
+        int result=0;
+        for(int i=0;i<s.length();i++)
+        {
+            if(i+1<s.length() && hm1.containsKey(s.substring(i,i+2)))
+            {
+                result += hm1.get(s.substring(i,i+2));
+                i++;
+            }
+            else
+            {
+                result += hm1.get(String.valueOf(s.charAt(i)));
+            }
+        } 
+        return result;
+    }
+}
