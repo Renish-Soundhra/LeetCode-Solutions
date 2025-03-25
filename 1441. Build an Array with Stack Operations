@@ -1,0 +1,18 @@
+class Solution {
+    public List<String> buildArray(int[] target, int n) {
+        List<String> arr=new LinkedList<>();
+        int num=1;
+        for(int i=0;i<target.length;i++)
+        {
+            while(num<target[i])
+            {
+                arr.add("Push");
+                arr.add("Pop");
+                num++;
+            }
+            arr.add("Push");
+            num++;
+        }
+        return arr;
+    }
+}
