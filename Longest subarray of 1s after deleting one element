@@ -1,0 +1,30 @@
+class Solution {
+    public int longestSubarray(int[] nums) {
+        int i=0;
+        int j=0;
+        int temp=0;
+        int ind=0;
+        int max=0;
+        boolean zero=false;
+        List<Integer> list=new ArrayList<>();
+        while(j<nums.length)
+        {
+            if(nums[j]==0)
+            {
+                list.add(j);
+                if(!zero)
+                {
+                    zero=true;
+                }
+                else
+                {
+                    i=list.get(ind)+1;
+                    ind++;
+                }
+            }
+            j++;
+            max=Math.max(max,j-i);
+        }
+        return max-1;
+    }
+}
