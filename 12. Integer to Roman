@@ -1,0 +1,31 @@
+class Solution {
+    public String intToRoman(int num) {
+        HashMap<Integer, String> hm1=new HashMap<Integer, String>();
+        hm1.put(1,"I");
+        hm1.put(4,"IV");
+        hm1.put(5,"V");
+        hm1.put(9,"IX");
+        hm1.put(10,"X");
+        hm1.put(40,"XL");
+        hm1.put(50,"L");
+        hm1.put(90,"XC");
+        hm1.put(100,"C");
+        hm1.put(400,"CD");
+        hm1.put(500,"D");
+        hm1.put(900,"CM");
+        hm1.put(1000,"M");
+        int arr[]={1000,900,500,400,100,90,50,40,10,9,5,4,1};
+        StringBuffer result=new StringBuffer();
+        for(int i=0;i<arr.length;i++)
+        {
+           int temp=num/arr[i];
+           num=num%arr[i];
+           for(int j=0;j<temp;j++)
+           {
+              result.append(hm1.get(arr[i]));
+           }
+        }
+        String res=result.toString();
+        return res;
+    }
+}
