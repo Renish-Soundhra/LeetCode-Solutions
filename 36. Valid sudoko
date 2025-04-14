@@ -1,0 +1,26 @@
+class Solution {
+    public boolean isValidSudoku(char[][] board) {
+        int rowflag[]=new int[9];
+        int colflag[]=new int[9];
+        int submatrix[]=new int[9];
+        for(int row=0;row<9;row++)
+        {
+            for(int col=0;col<9;col++)
+            {
+                if(board[row][col]!='.')
+                {
+                    int dig=board[row][col]-'0';
+                    int subidx=3*(row/3)+(col/3);
+                    if((rowflag[row]&(1<<dig))!=0 || (colflag[col]&(1<<dig))!=0 || (submatrix[subidx]&(1<<dig))!=0)
+                    {
+                        return false;
+                    }
+                    rowflag[row]|=(1<<dig);
+                    colflag[col]|=(1<<dig);
+                    submatrix[subidx]|=(1<<dig);
+                }
+            }
+        }
+        return true;
+    }
+}
