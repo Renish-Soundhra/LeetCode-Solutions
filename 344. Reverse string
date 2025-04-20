@@ -1,0 +1,18 @@
+class Solution {
+    public void reverseString(char[] s) {
+        int i=0;
+        int j=s.length-1;
+        recursion(s,i,j);
+    }
+    private void recursion(char[] s,int i,int j)
+    {
+        if(i>=j)
+        {
+            return;
+        }
+            char temp=s[i];
+            s[i]=s[j];
+            s[j]=temp;
+            recursion(s,i+1,j-1);
+    }
+}
