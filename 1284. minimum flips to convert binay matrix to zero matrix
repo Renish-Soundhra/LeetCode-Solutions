@@ -1,0 +1,45 @@
+class Solution {
+    public int minFlips(int[][] mat) {
+       int R=mat.length;
+       int C=mat[0].length;
+       int state=0;
+       for(int row=0;row<R;row++){
+            for(int col=0;col<C;col++){
+                state=state|(mat[row][col]<<((row*C)+col));
+            }
+       }
+       Queue<Integer> queue=new LinkedList<>();
+       queue.add(state);
+       Set<Integer> visited=new HashSet<>();
+       visited.add(state);
+       int count=0;
+       int diff[][]=new int[][] {{1,0},{0,1},{-1,0},{0,-1},{0,0}};
+       while(!queue.isEmpty()){
+            int qsize=queue.size();
+            for(int ctr=1;ctr<=qsize;ctr++){
+                int cstate=queue.poll();
+                if(cstate==0){
+                    return count;
+                }
+                for(int row=0;row<R;row++){
+                    for(int col=0;col<C;col++){
+                        int newstate=cstate;
+                        for(int i=0;i<5;i++){
+                            int ar=row+diff[i][0];
+                            int ac=col+diff[i][1];
+                            if(ar>=0 && ar<R && ac>=0 && ac<C){
+                                newstate=newstate^(1<<(ar*C+ac));
+                            }
+                        }
+                        if(!visited.contains(newstate)){
+                            visited.add(newstate);
+                            queue.add(newstate);
+                        }
+                    }
+                }
+            }
+            count++;
+       }
+       return -1; 
+    }
+}
