@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 ## String
 |  |
 | ------- |
@@ -56,4 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
+## Union Find
+|  |
+| ------- |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
+## Matrix
+|  |
+| ------- |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
