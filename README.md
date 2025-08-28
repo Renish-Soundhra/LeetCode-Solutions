@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
