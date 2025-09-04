@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
