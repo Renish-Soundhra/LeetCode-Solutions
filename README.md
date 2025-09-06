@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
