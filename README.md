@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0890-lemonade-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0985-bag-of-tokens](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1046-max-consecutive-ones-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Queue
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
