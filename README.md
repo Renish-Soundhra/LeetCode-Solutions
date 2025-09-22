@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0441-arranging-coins) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
