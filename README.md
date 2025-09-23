@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
