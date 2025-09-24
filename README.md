@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0682-baseball-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0890-lemonade-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
