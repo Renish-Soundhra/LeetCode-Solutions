@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3312-number-of-changing-keys](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3312-number-of-changing-keys) |
 ## Dynamic Programming
 |  |
 | ------- |
