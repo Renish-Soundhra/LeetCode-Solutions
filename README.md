@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2752-sum-multiples) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Greedy
 |  |
