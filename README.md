@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0742-to-lower-case](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
