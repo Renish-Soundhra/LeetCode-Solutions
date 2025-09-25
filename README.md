@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0682-baseball-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0747-min-cost-climbing-stairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0890-lemonade-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
