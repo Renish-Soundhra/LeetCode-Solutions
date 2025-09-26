@@ -25,10 +25,7 @@ class Solution {
     public int findSecondMinimumValue(TreeNode root) {
         HashSet<Integer> set=new HashSet();
         travel(root,set);
-        PriorityQueue<Integer> q=new PriorityQueue<>();
-        for(int n:set){
-            q.add(n);
-        }
+        PriorityQueue<Integer> q=new PriorityQueue<>(set);
         if(q.size()<2){
             return -1;
         }
