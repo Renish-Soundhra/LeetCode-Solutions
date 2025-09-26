@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Recursion
 |  |
