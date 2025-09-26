@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+| [3330-modify-the-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3330-modify-the-matrix) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3330-modify-the-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3330-modify-the-matrix) |
 ## Queue
 |  |
 | ------- |
