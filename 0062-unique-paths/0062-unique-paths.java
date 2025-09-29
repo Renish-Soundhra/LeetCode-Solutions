@@ -1,20 +1,13 @@
 class Solution {
-    public int fun(int r,int c,int dp[][]){
-        for(int i=1;i<r;i++){
-            for(int j=1;j<c;j++){
-                dp[i][j]=dp[i-1][j]+dp[i][j-1];
-            }
-        }
-        return dp[r-1][c-1];
+    public int dfs (int i,int j,int R,int C, int[][] dp) {
+        if ( i==R || j==C) return 0;
+        if (i==R-1 && j==C-1) return 1;
+        if (dp[i][j]!=0) return dp[i][j] ;
+        dp[i][j] = dfs(i+1,j,R,C,dp) + dfs(i,j+1,R,C,dp) ;
+        return dp[i][j];
     }
     public int uniquePaths(int m, int n) {
-        int dp[][]=new int[m][n];
-        for(int i=0;i<m;i++){
-            dp[i][0]=1;
-        }
-        for(int i=0;i<n;i++){
-            dp[0][i]=1;
-        }
-        return fun(m,n,dp);
+        int dp[][] = new int [m][n] ;
+        return  dfs(0,0,m,n,dp) ;
     }
 }
