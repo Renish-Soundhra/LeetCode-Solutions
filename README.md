@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0682-baseball-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0890-lemonade-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0924-fair-candy-swap](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
