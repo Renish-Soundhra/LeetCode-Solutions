@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
+| [1580-shuffle-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
