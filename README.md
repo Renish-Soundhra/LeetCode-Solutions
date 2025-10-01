@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2406-decode-the-message](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [3194-find-words-containing-character](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2406-decode-the-message](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 ## Divide and Conquer
 |  |
 | ------- |
