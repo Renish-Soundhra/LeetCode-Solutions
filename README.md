@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
