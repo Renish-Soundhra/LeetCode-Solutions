@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4039-compute-decimal-representation](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4039-compute-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4058-compute-alternating-sum) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
