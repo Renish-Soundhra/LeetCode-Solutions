@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3330-modify-the-matrix) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4011-smallest-absent-positive-greater-than-average) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4039-compute-decimal-representation](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4039-compute-decimal-representation) |
 ## Greedy
 |  |
