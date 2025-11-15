@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2659-number-of-even-and-odd-bits) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Sliding Window
 |  |
@@ -566,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
+## Brainteaser
+|  |
+| ------- |
+| [3998-minimum-operations-to-equalize-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3998-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
