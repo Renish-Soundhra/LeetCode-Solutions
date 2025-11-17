@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1677-matrix-diagonal-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
