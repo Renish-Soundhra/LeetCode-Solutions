@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2159-two-out-of-three) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2159-two-out-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2159-two-out-of-three) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
