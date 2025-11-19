@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4058-compute-alternating-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4107-find-missing-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4107-find-missing-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4107-find-missing-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
