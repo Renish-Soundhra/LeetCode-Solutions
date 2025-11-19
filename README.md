@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
