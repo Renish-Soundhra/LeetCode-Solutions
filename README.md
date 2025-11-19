@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3330-modify-the-matrix) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2659-number-of-even-and-odd-bits) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
