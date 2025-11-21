@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2418-sort-the-people](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2406-decode-the-message](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2406-decode-the-message) |
+| [2418-sort-the-people](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3312-number-of-changing-keys) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2406-decode-the-message) |
+| [2418-sort-the-people](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
