@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2404-most-frequent-even-element](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2159-two-out-of-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2404-most-frequent-even-element](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2406-decode-the-message](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2404-most-frequent-even-element](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2427-first-letter-to-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
