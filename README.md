@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0819-most-common-word](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0890-lemonade-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0924-fair-candy-swap) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1078-remove-outermost-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0924-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
