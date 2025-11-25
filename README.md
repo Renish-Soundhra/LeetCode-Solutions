@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1331-rank-transform-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
