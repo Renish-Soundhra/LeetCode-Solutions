@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1089-duplicate-zeros](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0985-bag-of-tokens](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1089-duplicate-zeros](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
