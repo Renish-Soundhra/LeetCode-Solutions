@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1512-number-of-good-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
