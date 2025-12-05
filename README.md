@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3330-modify-the-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3330-modify-the-matrix) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Indexed Tree
 |  |
 | ------- |
