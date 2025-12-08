@@ -7,15 +7,10 @@ class Solution {
                     continue;
                 }
                 else{
-                    for(int k=1;k<=n;k++){
-                        if(j==k){
-                            continue;
-                        }
-                        else{
-                            if((i*i)+(j*j)==(k*k)){
-                                ctr++;
-                            }
-                        }
+                    int sum=(i*i)+(j*j);
+                    int c=(int)Math.sqrt(sum);
+                    if(c<=n && c*c==sum){
+                        ctr++;
                     }
                 }
             }
