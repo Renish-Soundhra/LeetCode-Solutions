@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1677-matrix-diagonal-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1496-path-crossing](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1496-path-crossing) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1496-path-crossing) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1848-sum-of-unique-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1848-sum-of-unique-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1610-xor-operation-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
