@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1512-number-of-good-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1496-path-crossing](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1496-path-crossing) |
+| [1528-shuffle-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
