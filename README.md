@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1331-rank-transform-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1390-four-divisors](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
