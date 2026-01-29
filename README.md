@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0819-most-common-word](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0924-fair-candy-swap) |
 | [0985-bag-of-tokens](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1331-rank-transform-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
