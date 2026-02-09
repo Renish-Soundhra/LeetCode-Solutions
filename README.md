@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0326-power-of-three) |
