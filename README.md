@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0338-counting-bits) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0415-add-strings) |
