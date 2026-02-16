@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
