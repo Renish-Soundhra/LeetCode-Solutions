@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0924-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
