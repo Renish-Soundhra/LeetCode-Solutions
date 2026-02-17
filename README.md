@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
