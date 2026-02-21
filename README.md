@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1143-longest-common-subsequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
