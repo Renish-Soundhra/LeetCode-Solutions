@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
@@ -915,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [1925-count-square-sum-triples](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2507-number-of-common-factors](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
