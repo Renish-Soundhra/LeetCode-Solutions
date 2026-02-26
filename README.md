@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
