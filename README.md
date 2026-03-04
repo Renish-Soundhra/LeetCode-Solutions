@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0742-to-lower-case) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0507-perfect-number) |
+| [0564-find-the-closest-palindrome](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
