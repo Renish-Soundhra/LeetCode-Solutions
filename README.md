@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
