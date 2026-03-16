@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
