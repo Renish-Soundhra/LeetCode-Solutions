@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2058-concatenation-of-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1806-count-of-matches-in-tournament](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
