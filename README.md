@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
@@ -998,10 +999,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Graph Theory
 |  |
 | ------- |
