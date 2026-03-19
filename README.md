@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0924-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1695-maximum-erasure-value](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
