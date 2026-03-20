@@ -1,6 +1,6 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        Arrays.sort(coins);
+        //Arrays.sort(coins);
         int dp[]=new int[amount+1];
         for(int i=1;i<dp.length;i++){
             dp[i]=Integer.MAX_VALUE;
