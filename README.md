@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1400-construct-k-palindrome-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1496-path-crossing](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1496-path-crossing) |
 | [1528-shuffle-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1528-shuffle-string) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0890-lemonade-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0985-bag-of-tokens](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1400-construct-k-palindrome-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2032-largest-odd-number-in-string](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1400-construct-k-palindrome-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1400-construct-k-palindrome-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
