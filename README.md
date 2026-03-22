@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
