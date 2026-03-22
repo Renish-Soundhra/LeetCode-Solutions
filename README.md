@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0564-find-the-closest-palindrome](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
+| [0670-maximum-swap](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0670-maximum-swap](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0985-bag-of-tokens](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1400-construct-k-palindrome-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1400-construct-k-palindrome-strings) |
