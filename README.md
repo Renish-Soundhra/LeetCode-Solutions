@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
@@ -1044,8 +1046,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
