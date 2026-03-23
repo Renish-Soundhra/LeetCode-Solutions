@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
