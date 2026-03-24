@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0924-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0525-contiguous-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
