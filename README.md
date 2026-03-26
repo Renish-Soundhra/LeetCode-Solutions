@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1383-maximum-performance-of-a-team](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1390-four-divisors](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0985-bag-of-tokens](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1383-maximum-performance-of-a-team](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1400-construct-k-palindrome-strings](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1537-get-the-maximum-score](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1537-get-the-maximum-score) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1383-maximum-performance-of-a-team](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1383-maximum-performance-of-a-team](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3226-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
