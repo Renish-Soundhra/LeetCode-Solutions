@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0338-counting-bits) |
