@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-sum-of-unique-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2058-concatenation-of-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Math
 |  |
 | ------- |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
 |  |
 | ------- |
