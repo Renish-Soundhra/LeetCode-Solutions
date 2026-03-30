@@ -1,22 +1,23 @@
 class Solution {
-    private void combination(int index,int []arr,int target,List<List<Integer>> ans,List<Integer> ds){
+    public void combosum(int ind,int arr[],int target,List<Integer> ans,List<List<Integer>> res){
         if(target==0){
-            ans.add(new ArrayList<>(ds));
+            res.add(new ArrayList<>(ans));
             return;
         }
-        if(index==arr.length){
+        if(ind>=arr.length){
             return;
         }
-        if(arr[index]<=target){
-            ds.add(arr[index]);
-            combination(index,arr,target-arr[index],ans,ds);
-            ds.remove(ds.size()-1);
+        if(arr[ind]<=target){
+            ans.add(arr[ind]);
+            combosum(ind,arr,target-arr[ind],ans,res);
+            ans.remove(ans.size()-1);
         }
-        combination(index+1,arr,target,ans,ds);
+        combosum(ind+1,arr,target,ans,res);
     }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> ans=new ArrayList<>();
-        combination(0,candidates,target,ans,new ArrayList<>());
-        return ans;
+        List<List<Integer>> res=new ArrayList<>();
+        List<Integer> ans=new ArrayList<>();
+        combosum(0,candidates,target,ans,res);
+        return res;
     }
 }
