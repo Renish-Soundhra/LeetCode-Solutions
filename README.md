@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1184-distance-between-bus-stops](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1184-distance-between-bus-stops) |
+| [1219-path-with-maximum-gold](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1293-three-consecutive-odds](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1219-path-with-maximum-gold](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -930,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [1219-path-with-maximum-gold](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
