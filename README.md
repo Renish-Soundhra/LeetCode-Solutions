@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1575-count-all-possible-routes](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1575-count-all-possible-routes) |
 | [1580-shuffle-the-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1677-matrix-diagonal-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1537-get-the-maximum-score](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1575-count-all-possible-routes](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1575-count-all-possible-routes) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1575-count-all-possible-routes](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1575-count-all-possible-routes) |
 ## Backtracking
 |  |
 | ------- |
