@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 ## Stack
 |  |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2634-minimum-common-value](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2427-first-letter-to-appear-twice](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
