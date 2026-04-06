@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1143-longest-common-subsequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1092-shortest-common-supersequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
