@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0463-island-perimeter) |
@@ -1180,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0997-find-the-town-judge](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/2374-node-with-highest-edge-score) |
@@ -1196,4 +1199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Renish-Soundhra/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
